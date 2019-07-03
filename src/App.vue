@@ -3,7 +3,7 @@
     <div id="main-wrapper">
       <Topbar></Topbar>
       <Sidebar></Sidebar>
-      <ListPage></ListPage>
+      <transition><router-view></router-view></transition>
     </div>
   </div>
 </template>
@@ -11,15 +11,16 @@
 <script>
 import Topbar from "./components/Topbar";
 import Sidebar from "./components/Sidebar";
-import ListPage from "./components/ListPage";
+import routes from "./components/WrapperRoutes.js";
+
 
 export default {
   name: "App",
   components: {
     Topbar,
-    Sidebar,
-    ListPage
-  }
+    Sidebar
+  },
+  routes: routes
 };
 </script>
 <style>

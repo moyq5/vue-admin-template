@@ -5,227 +5,26 @@
       <!-- Sidebar navigation-->
       <nav class="sidebar-nav">
         <ul id="sidebarnav" class="p-t-30">
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link waves-effect waves-dark sidebar-link"
-              href="index.html"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-view-dashboard"></i>
-              <span class="hide-menu">Dashboard</span>
-            </a>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link waves-effect waves-dark sidebar-link"
-              href="charts.html"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-chart-bar"></i>
-              <span class="hide-menu">Charts</span>
-            </a>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link waves-effect waves-dark sidebar-link"
-              href="widgets.html"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-chart-bubble"></i>
-              <span class="hide-menu">Widgets</span>
-            </a>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link waves-effect waves-dark sidebar-link"
-              href="tables.html"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-border-inside"></i>
-              <span class="hide-menu">Tables</span>
-            </a>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link waves-effect waves-dark sidebar-link"
-              href="grid.html"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-blur-linear"></i>
-              <span class="hide-menu">Full Width</span>
-            </a>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link has-arrow waves-effect waves-dark"
-              href="javascript:void(0)"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-receipt"></i>
-              <span class="hide-menu">Forms</span>
-            </a>
-            <ul aria-expanded="false" class="collapse first-level">
-              <li class="sidebar-item">
-                <a href="form-basic.html" class="sidebar-link">
-                  <i class="mdi mdi-note-outline"></i>
-                  <span class="hide-menu">Form Basic</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="form-wizard.html" class="sidebar-link">
-                  <i class="mdi mdi-note-plus"></i>
-                  <span class="hide-menu">Form Wizard</span>
-                </a>
-              </li>
-            </ul>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link waves-effect waves-dark sidebar-link"
-              href="pages-buttons.html"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-relative-scale"></i>
-              <span class="hide-menu">Buttons</span>
-            </a>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link has-arrow waves-effect waves-dark"
-              href="javascript:void(0)"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-face"></i>
-              <span class="hide-menu">Icons</span>
-            </a>
-            <ul aria-expanded="false" class="collapse first-level">
-              <li class="sidebar-item">
-                <a href="icon-material.html" class="sidebar-link">
-                  <i class="mdi mdi-emoticon"></i>
-                  <span class="hide-menu">Material Icons</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="icon-fontawesome.html" class="sidebar-link">
-                  <i class="mdi mdi-emoticon-cool"></i>
-                  <span class="hide-menu">Font Awesome Icons</span>
-                </a>
-              </li>
-            </ul>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link waves-effect waves-dark sidebar-link"
-              href="pages-elements.html"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-pencil"></i>
-              <span class="hide-menu">Elements</span>
-            </a>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link has-arrow waves-effect waves-dark"
-              href="javascript:void(0)"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-move-resize-variant"></i>
-              <span class="hide-menu">Addons</span>
-            </a>
-            <ul aria-expanded="false" class="collapse first-level">
-              <li class="sidebar-item">
-                <a href="index2.html" class="sidebar-link">
-                  <i class="mdi mdi-view-dashboard"></i>
-                  <span class="hide-menu">Dashboard-2</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="pages-gallery.html" class="sidebar-link">
-                  <i class="mdi mdi-multiplication-box"></i>
-                  <span class="hide-menu">Gallery</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="pages-calendar.html" class="sidebar-link">
-                  <i class="mdi mdi-calendar-check"></i>
-                  <span class="hide-menu">Calendar</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="pages-invoice.html" class="sidebar-link">
-                  <i class="mdi mdi-bulletin-board"></i>
-                  <span class="hide-menu">Invoice</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="pages-chat.html" class="sidebar-link">
-                  <i class="mdi mdi-message-outline"></i>
-                  <span class="hide-menu">Chat Option</span>
-                </a>
-              </li>
-            </ul>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link has-arrow waves-effect waves-dark"
-              href="javascript:void(0)"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-account-key"></i>
-              <span class="hide-menu">Authentication</span>
-            </a>
-            <ul aria-expanded="false" class="collapse first-level">
-              <li class="sidebar-item">
-                <a href="authentication-login.html" class="sidebar-link">
-                  <i class="mdi mdi-all-inclusive"></i>
-                  <span class="hide-menu">Login</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="authentication-register.html" class="sidebar-link">
-                  <i class="mdi mdi-all-inclusive"></i>
-                  <span class="hide-menu">Register</span>
-                </a>
-              </li>
-            </ul>
-          </li>
-          <li class="sidebar-item">
-            <a
-              class="sidebar-link has-arrow waves-effect waves-dark"
-              href="javascript:void(0)"
-              aria-expanded="false"
-            >
-              <i class="mdi mdi-alert"></i>
-              <span class="hide-menu">Errors</span>
-            </a>
-            <ul aria-expanded="false" class="collapse first-level">
-              <li class="sidebar-item">
-                <a href="error-403.html" class="sidebar-link">
-                  <i class="mdi mdi-alert-octagon"></i>
-                  <span class="hide-menu">Error 403</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="error-404.html" class="sidebar-link">
-                  <i class="mdi mdi-alert-octagon"></i>
-                  <span class="hide-menu">Error 404</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="error-405.html" class="sidebar-link">
-                  <i class="mdi mdi-alert-octagon"></i>
-                  <span class="hide-menu">Error 405</span>
-                </a>
-              </li>
-              <li class="sidebar-item">
-                <a href="error-500.html" class="sidebar-link">
-                  <i class="mdi mdi-alert-octagon"></i>
-                  <span class="hide-menu">Error 500</span>
-                </a>
-              </li>
-            </ul>
-          </li>
-        </ul>
+				  <li class="sidebar-item" v-for="(menu, index) in menus" :index="index" :key="menu.id" :class="{'selected': menu.isActive}">
+				    <a
+				      class="sidebar-link waves-effect waves-dark"
+				      aria-expanded="false"
+				      :class="[{'has-arrow': menu.items.length > 0},{'active': menu.isActive}]"
+				      :href="menu.items.length > 0 ? 'javascript:void(0)': menu.href "
+				    >
+				      <i class="mdi" :class="menu.icon"></i>
+				      <span class="hide-menu">{{menu.text}}</span>
+				    </a>
+				    <ul aria-expanded="false" class="collapse first-level" v-if="menu.items.length > 0"  :class="{'in': menu.isActive}">
+				      <li class="sidebar-item" v-for="item in menu.items" :key="item.id" :class="{'active': item.isActive}">
+				        <a class="sidebar-link" :href="item.href">
+				          <i class="mdi" :class="item.icon"></i>
+				          <span class="hide-menu">{{item.text}}</span>
+				        </a>
+				      </li>
+				    </ul>
+				  </li>
+				</ul>
       </nav>
       <!-- End Sidebar navigation -->
     </div>
@@ -234,5 +33,161 @@
 </template>
 
 <script>
-export default {};
+import Vue from "vue";
+import $ from 'jquery'
+import Bootstrap from 'bootstrap'
+import PerfectScrollbar from 'perfect-scrollbar'
+import '../dist/js/waves.js'
+
+var menus = [
+		{	
+			id:0,
+			href: "#/charts.html",
+			icon: "mdi-chart-bar",
+			text: "Charts",
+			items: []
+		},
+		{	
+			id:1,
+			href: "#/widgets.html",
+			icon: "mdi-chart-bubble",
+			text: "Widgets",
+			items: []
+		},
+		{	
+			id:2,
+			href: "#/tables.html",
+			icon: "mdi-border-inside",
+			text: "Tables",
+			items: []
+		},
+		{	
+			id:3,
+			href: "#/grid.html",
+			icon: "mdi-blur-linear",
+			text: "Full Width",
+			items: []
+		},
+		{
+			id:4,
+			href: "javascript:void(0)",
+			icon: "mdi-receipt",
+			text: "Forms",
+			items: [
+				{id:5, href: "#/form-basic.html", icon: "mdi-note-outline", text: "Form Basic"},
+				{id:6, href: "#/form-wizard.html", icon: "mdi-note-plus", text: "Form Wizard"}
+				]
+		},
+		{	
+			id:7,
+			href: "#/pages-buttons.html",
+			icon: "mdi-relative-scale",
+			text: "Buttons",
+			items: []
+		},
+		{
+			id:8,
+			href: "javascript:void(0)",
+			icon: "mdi-face",
+			text: "Icons",
+			items: [
+				{id:9, href: "#/icon-material.html", icon: "mdi-emoticon", text: "Material Icons"},
+				{id:10, href: "#/icon-fontawesome.html", icon: "mdi-emoticon-cool", text: "Font Awesome Icons"}
+				]
+		},
+		{	
+			id:11,
+			href: "#/pages-elements.html",
+			icon: "mdi-pencil",
+			text: "Elements",
+			items: []
+		},
+		{
+			id:12,
+			href: "javascript:void(0)",
+			icon: "mdi-move-resize-variant",
+			text: "Addons",
+			items: [
+				{id:13, href: "#/index2.html", icon: "mdi-view-dashboard", text: "Dashboard-2"},
+				{id:14, href: "#/pages-gallery.html", icon: "mdi-multiplication-box", text: "Gallery"},
+				{id:15, href: "#/pages-calendar.html", icon: "mdi-calendar-check", text: "Calendar"},
+				{id:16, href: "#/pages-invoice.html", icon: "mdi-bulletin-board", text: "Invoice"},
+				{id:17, href: "#/pages-chat.html", icon: "mdi-message-outline", text: "Chat Option"}
+				]
+		},
+		{
+			id:18,
+			href: "javascript:void(0)",
+			icon: "mdi-account-key",
+			text: "Authentication",
+			items: [
+				{id:19, href: "#authentication-login.html", icon: "mdi-all-inclusive", text: "Login"},
+				{id:20, href: "#authentication-register.html", icon: "mdi-all-inclusive", text: "Register"}
+				]
+		},
+		{
+			id:21,
+			href: "javascript:void(0)",
+			icon: "mdi-alert",
+			text: "Errors",
+			items: [
+				{id:22, href: "#/error-403.html", icon: "mdi-alert-octagon", text: "Error 403"},
+				{id:23, href: "#/error-404.html", icon: "mdi-alert-octagon", text: "Error 404"},
+				{id:24, href: "#/error-405.html", icon: "mdi-alert-octagon", text: "Error 405"},
+				{id:25, href: "#/error-500.html", icon: "mdi-alert-octagon", text: "Error 500"}
+				]
+		}
+	]
+	
+var refresh = function(url) {
+	if (url && url.indexOf("javascript") != -1) {
+		return;
+	}
+	for (let i in menus) {
+		let menu = menus[i];
+		menu.isActive = url.indexOf(menu.href) != -1;
+		for (let j in menu.items) {
+			let item = menu.items[j];
+			if (url.indexOf(item.href) != -1) {
+				menu.isActive = true;
+				item.isActive = true;
+			} else {
+				item.isActive = false;
+			}
+		}
+	}
+	menus = menus.concat([]);
+}	
+
+refresh(window.location.href);
+	
+export default {
+	data: function () {
+		 return {
+				menus: menus
+		}
+	}
+}
+
+
+
+$(document).on('click', '#sidebarnav a', function (e) {
+
+		if ($(this).hasClass("active")) {
+			$(this).next("ul").removeClass("in");
+    	$(this).removeClass("active");
+		} else if ($(this).next("ul").length > 0) {
+			$(".in").prev("a").removeClass("active");
+    	$(".in").removeClass("in");
+			$(this).next("ul").addClass("in");
+    	$(this).addClass("active");
+		}
+		
+		refresh($(this).attr("href"));
+		
+})
+$(document).on('click', '#sidebarnav >li >a.has-arrow', function (e) {
+    e.preventDefault();
+});
+
 </script>
