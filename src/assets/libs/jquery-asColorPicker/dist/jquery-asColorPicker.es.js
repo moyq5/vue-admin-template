@@ -2035,20 +2035,20 @@ AsColorPicker.registerComponent('gradient', gradient);
 
 // Chinese (cn) localization
 AsColorPicker.setLocalization('cn', {
-  cancelText: "åæ¶",
-  applyText: "åºç¨"
+  cancelText: "取消",
+  applyText: "应用"
 });
 
 // German (de) localization
 AsColorPicker.setLocalization('de', {
   cancelText: "Abbrechen",
-  applyText: "WÃ¤hlen"
+  applyText: "Wählen"
 });
 
 // Danish (dk) localization
 AsColorPicker.setLocalization('dk', {
   cancelText: "annuller",
-  applyText: "VÃ¦lg"
+  applyText: "Vælg"
 });
 
 // Spanish (es) localization
@@ -2077,26 +2077,26 @@ AsColorPicker.setLocalization('it', {
 
 // Japanese (ja) localization
 AsColorPicker.setLocalization('ja', {
-  cancelText: "ä¸­æ­¢",
-  applyText: "é¸æ"
+  cancelText: "中止",
+  applyText: "選択"
 });
 
 // Russian (ru) localization
 AsColorPicker.setLocalization('ru', {
-  cancelText: "Ð¾ÑÐ¼ÐµÐ½Ð°",
-  applyText: "Ð²ÑÐ±ÑÐ°ÑÑ"
+  cancelText: "отмена",
+  applyText: "выбрать"
 });
 
 // Swedish (sv) localization
 AsColorPicker.setLocalization('sv', {
   cancelText: "Avbryt",
-  applyText: "VÃ¤lj"
+  applyText: "Välj"
 });
 
 // Turkish (tr) localization
 AsColorPicker.setLocalization('tr', {
   cancelText: "Avbryt",
-  applyText: "VÃ¤lj"
+  applyText: "Välj"
 });
 
 var info$1 = {

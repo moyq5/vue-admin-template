@@ -7613,7 +7613,7 @@ function fix_cursor (diffs, cursor_pos) {
 /*
  * Check diff did not split surrogate pairs.
  * Ex. [0, '\uD83D'], [-1, '\uDC36'], [1, '\uDC2F'] -> [-1, '\uD83D\uDC36'], [1, '\uD83D\uDC2F']
- *     '\uD83D\uDC36' === 'ð¶', '\uD83D\uDC2F' === 'ð¯'
+ *     '\uD83D\uDC36' === '🐶', '\uD83D\uDC2F' === '🐯'
  *
  * @param {Array} diffs Array of diff tuples
  * @return {Array} Array of diff tuples

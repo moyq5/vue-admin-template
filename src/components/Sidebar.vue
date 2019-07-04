@@ -41,6 +41,13 @@ import '../dist/js/waves.js'
 
 var menus = [
 		{	
+			id:99999,
+			href: "#/permission.html",
+			icon: "mdi-chart-bar",
+			text: "权限定义",
+			items: []
+		},
+		{	
 			id:0,
 			href: "#/charts.html",
 			icon: "mdi-chart-bar",
