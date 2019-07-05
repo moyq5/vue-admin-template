@@ -6,7 +6,7 @@
   	<div class="row">
   		<div class="col-md-12">
   		<ul class="list-group">
-  			<PermissionItem v-for="perm in perms" :perm="perm" v-bind:key="perm.id"/>
+  			<PermissionItem v-for="perm in perms" :perms="perms" :perm="perm" v-bind:key="perm.id"/>
   		</ul>
   		</div>
   	</div>
