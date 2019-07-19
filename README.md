@@ -28,6 +28,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### [°²×°bootstrap](https://bootstrap-vue.js.org/docs)
+### [ï¿½ï¿½×°bootstrap](https://bootstrap-vue.js.org/docs)
 npm i vue bootstrap-vue bootstrap
 npm install vue-perfect-scrollbar perfect-scrollbar --save
+npm install bootstrap-select
